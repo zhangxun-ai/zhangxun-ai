@@ -1,3 +1,9 @@
+<!-- project-cover:20261101:start -->
+<p align="center">
+  <img src="assets/project-cover-20261101.webp" alt="Zeno — AI-designed project cover" width="1280" />
+</p>
+<!-- project-cover:20261101:end -->
+
 # Hi, I'm Xun Zhang 👋
 
 **AI Entrepreneur · Indie Product Developer**
