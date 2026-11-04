@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/project-cover-20261101.webp" alt="Zeno" width="1280" />
+  <img src="assets/profile-banner-20261104.webp" alt="Zeno" width="1280" />
 </p>
 
 # Zeno ZhangXun
